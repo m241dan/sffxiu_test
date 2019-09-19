@@ -2,7 +2,7 @@
 name: General Idea
 about: Since we're all about exploring new idea for this MOD, what are yours?
 title: ''
-labels: ''
+labels: general idea
 assignees: ''
 
 ---
